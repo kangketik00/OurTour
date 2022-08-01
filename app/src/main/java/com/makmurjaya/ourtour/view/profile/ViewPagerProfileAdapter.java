@@ -1,9 +1,5 @@
 package com.makmurjaya.ourtour.view.profile;
-// Tanggal Pengerjaan: 24-07-2022
-// Hayin Ananta - 10119005 - IF1
-// Ilham Zaki - 10119006 - IF1
-// Rizal Sihombing - 10119028 - IF1
-// Muhammad Ikhlas Naufalsyah Ranau - 10119022 - IF1
+// Tanggal Pengerjaan: 01-08-2022
 // Dandi Ahmadin - 10119033 - IF1
 import android.view.LayoutInflater;
 import android.view.View;
